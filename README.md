@@ -1,7 +1,7 @@
 # Hello there, I'm Ralf 👋
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/RalfEs/)
 
-![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=6aa6f8) ![WindowsTerminal](https://img.shields.io/badge/Shell-Windows%20Terminal-informational?style=flat&logo=Windows-Terminal&logoColor=white&color=6aa6f8) ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=6aa6f8) ![WindowsTerminal](https://img.shields.io/badge/Shell-Windows%20Terminal-informational?style=flat&logo=Windows-Terminal&logoColor=white&color=6aa6f8)
 
 ```bash
 #!/bin/bash
