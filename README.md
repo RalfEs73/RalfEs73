@@ -14,7 +14,7 @@ function say_hello() {
 }
 
 if [[ $- != *i* ]]; then
-  export USERNAME="RalfEs"
+  export USERNAME="RalfEs73"
   export ROLE="Customer Success Manager - Microsoft Germany"
   export LANGUAGE="de_DE"
   say_hello
@@ -23,5 +23,3 @@ fi
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=RalfEs73&theme=oldie&column=7&&margin-w=15&no-bg=true))](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RalfEs73&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
