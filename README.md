@@ -3,7 +3,7 @@
 
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=6aa6f8) ![Windows](https://img.shields.io/badge/Shell-Power%20Shell-informational?style=flat&logo=Windows-Terminal&logoColor=white&color=6aa6f8) ![WindowsTerminal](https://img.shields.io/badge/Shell-Windows%20Terminal-informational?style=flat&logo=Windows-Terminal&logoColor=white&color=6aa6f8)
 
-![AI](https://img.shields.io/badge/AI-Microsoft%20Copilot-informational?style=flat&logoColor=white&color=6aa6f8&logo=github)
+![AI](https://img.shields.io/badge/AI-Microsoft%20Copilot-informational?style=flat&logoColor=white&color=6aa6f8)
 
 ```bash
 #!/bin/bash
