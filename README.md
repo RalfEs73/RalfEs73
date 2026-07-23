@@ -17,7 +17,7 @@ function say_hello() {
 
 if [[ $- != *i* ]]; then
   export USERNAME="RalfEs73"
-  export ROLE="Customer Success Manager - Microsoft Germany"
+  export ROLE="Product Manager"
   export LANGUAGE="de_DE"
   say_hello
 fi
