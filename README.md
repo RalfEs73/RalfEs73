@@ -6,19 +6,19 @@
 ![AI](https://img.shields.io/badge/AI-Microsoft%20Copilot-informational?style=flat&logoColor=white&color=6aa6f8)
 
 ```bash
-#!/bin/bash
+$ErrorActionPreference = "Stop"
 
-set -u
-IFS=$'\n\t'
-
-function say_hello() {
-  printf "Hello there, I hope you find something useful in my repositories!\\n"
+function Say-Hello {
+    Write-Host "Hello there, I hope you find something useful in my repositories!"
 }
 
-if [[ $- != *i* ]]; then
-  export USERNAME="RalfEs73"
-  export ROLE="Product Manager"
-  export LANGUAGE="de_DE"
-  say_hello
-fi
+$IsInteractive = $Host.Name -eq "ConsoleHost"
+
+if (-not $IsInteractive) {
+    $env:USERNAME = "RalfEs73"
+    $env:ROLE     = "Product Manager"
+    $env:LANGUAGE = "de_DE"
+
+    Say-Hello
+}
 ```
