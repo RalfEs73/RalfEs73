@@ -18,7 +18,7 @@ if (-not $IsInteractive) {
     $env:USERNAME = "RalfEs73"
     $env:ROLE     = "Product Manager"
     $env:LANGUAGE = "de_DE"
-
-    Say-Hello
 }
+
+Say-Hello
 ```
